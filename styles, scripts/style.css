@@ -1,0 +1,85 @@
+/*REDIRECT*/
+
+.redirect-title{
+    text-align: center;
+    background-color: bisque;
+    text-decoration-color: brown;
+    text-shadow: 1px brown;
+    font-size: 40px;
+}
+.counterElement{
+    margin-top: 30px;
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+.ReDirBody{
+    background-color: bisque;
+}
+
+/*GLOBAL*/
+
+/*MAINPAGE*/
+
+.MainBody{
+    background-image: url("..\\resources\\banner1.jpg");
+    background-repeat: repeat-y;
+    background-size: cover; /* Resize the background image to cover the entire container */
+    
+}
+
+.MainBanner{
+    
+}
+.content{
+    background-color: rgb(133, 133, 133,0.6);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height:auto;
+    top: 0;
+    position: relative;
+    border: solid 1px black;
+}
+
+.TopBar{
+    position: sticky;
+    top: 0;
+    text-align: left;
+    width: 100%;
+    background-color: rgb(175, 175, 175);
+    border: solid 1px black;
+}
+
+.icon{
+    border-radius: 50px;
+    border: solid 2px white;
+}
+
+.title{
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    background-color:rgb(133, 133, 133,0.4);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.ImageZbiorkaDlaUchodzcow{
+    width: 1184px;
+    height: 1682px;
+    text-align: center;
+}
+
+.bottomLink{
+    text-decoration: none;
+    font-size: 30px;
+    color:black;
+    transition-duration: 500ms;
+}
+
+.bottomLink:hover{
+    font-size: 35px;
+    text-decoration: underline;
+    color:black;
+}
